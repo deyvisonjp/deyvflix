@@ -1,3 +1,9 @@
+# Projeto Criado na Semana AluraFlix
+
+- Tecnologias utilizadas: React, react-router-dom e Styled Component
+
+- Link para acesso: [DEYVFLIX](https://deyvflix.vercel.app)
+_____________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
