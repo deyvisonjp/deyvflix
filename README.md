@@ -3,6 +3,18 @@
 - Tecnologias utilizadas: React, react-router-dom e Styled Component
 
 - Link para acesso: [DEYVFLIX](https://deyvflix.vercel.app)
+
+## Links importantes
+- [Categoria.js e formulário](https://gist.github.com/omariosouto/e04dd020257ff18fdff307ae2b26e00f)
+- [Código completo da aula 3](https://github.com/omariosouto/lucasflix/tree/live/src)
+
+## Vídeos complementares
+- [Pare de chutar CSS - Marco Bruno](https://www.youtube.com/watch?v=5PS6ku8NzIE&list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x)
+- [Vídeos extras sobre estilização com a Ju Negreiros](https://youtu.be/nDxp3YEpR1E?list=PLbcp5RKTX5wNF34qxISyWY6kignmhBQRT)
+
+## Desafios
+- [Colocar algo legal na página 404](https://www.youtube.com/watch?v=jOAU81jdi-c&list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej)
+
 _____________________________________________________________________________________________________
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
